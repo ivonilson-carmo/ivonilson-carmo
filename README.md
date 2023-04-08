@@ -18,5 +18,5 @@
 
 ## Sobre mim
 Tenho 20 anos, gosto bastante de tecnologia e programação! <br>
-Cursando atualmente Analise e Desenvolvimento de Sistemas(1º Semestre).<br>
+Cursando atualmente Analise e Desenvolvimento de Sistemas.<br>
 Gosto de aprender coisas novas, possuo mais interesse em programação backend que frontend mas considero ambas interessantes, gosto de desafios, sou bastante esforçado e determinado no que faço. <br>
